@@ -4,8 +4,8 @@
 
 For example:
 
-const numbers1 = 10;
-const numbers2 = [5, 6, 3];
+* const numbers1 = 10;
+* const numbers2 = [5, 6, 3];
 const numbers3 = [[1, 5, 4], [2, 8]];
 const numbers4 = [['1', '5,6', '4, 1'], ['2 3', '8']];
 const numbers5 = ['14', '15,9', '1, 2', '5 4'];
