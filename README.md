@@ -1,6 +1,6 @@
 # sum-calculator
 
-This function can take numbers in various formats as an argument, and sum them up.
+## This function can take numbers in various formats as an argument, and sum them up.
 
 For example:
 
